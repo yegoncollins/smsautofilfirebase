@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546293840742",
+    "project_id": "phone-auth-baffc",
+    "storage_bucket": "phone-auth-baffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546293840742:android:ed002e282d986490d9e6a7",
+        "android_client_info": {
+          "package_name": "com.example.smsautofilfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFoBJ1BE3upnDnwy5YsxYtmfW9RI5iE0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
